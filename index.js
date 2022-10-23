@@ -251,5 +251,3 @@ const vm = new Vue({
   }
 })
 vm.$mount('#app')
-
-// https://juejin.cn/post/7083375980403752968
